@@ -44,7 +44,7 @@ python src/main.py
 
 # Documentation
 
-you can find a report about this project in the 'docs' folder. 
+You can find a report about this project in the 'docs' folder. 
 This project being intended for a French professor, this report and the comments of the code are in French.
 
 # Contributors 
