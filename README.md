@@ -25,8 +25,8 @@ The project was made in Python with 4 Python modules (PIL, cmath, numpy, time).
 
 ### Prerequisites
 
-1. You need [Python](https://www.python.org/downloads/ "")
-2. You need install the 4 Python modules : PIL, cmath, numpy, time
+1. You need [Python](https://www.python.org/downloads/ "").
+2. You need install the 4 Python modules : PIL, cmath, numpy, time.
 ```
 python -m pip install name_module
 ```
