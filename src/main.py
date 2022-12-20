@@ -235,18 +235,18 @@ if __name__ == '__main__':
     print(matriceResultat)
 
     #sauvegarde en fichier numpy (utilisable pour faire la transformée inverse)
-    np.save("fichierResultat", matriceResultat)
+    np.save("fileResult", matriceResultat)
 
     #sauvegarde dans un fichier texte (juste pour voir les valeurs)
-    np.savetxt("fichierResultat.txt", matriceResultat)
+    np.savetxt("fileResult.txt", matriceResultat)
 
     #opérations nécessaires pour obtenir une bonne image
     matriceResultat=moduleMatrice(matriceResultat)
     matriceResultat=recadrage(matriceResultat,1,255)
     matriceResultat=matriceResultat.real.astype('uint8')
     #sauvegarde du module dans un fichier texte
-    np.savetxt("fichierResultatModule.txt", matriceResultat)
+    np.savetxt("fileResultModulus.txt", matriceResultat)
 
     #sauvegarde en tant qu'image
     imageFinale=Image.fromarray(matriceResultat)
-    imageFinale.save("imageResultat.png")
+    imageFinale.save("imageResult.png")
