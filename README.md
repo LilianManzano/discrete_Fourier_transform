@@ -2,7 +2,9 @@
 
 It's a small program with functions to calculate discrete Fourier transforms and inverse discrete fourier transform with different algorithms (DFT, FFT, IDFT, IFFT).
 
-This project was made  for a 3rd year license study project.
+![](./imgReadme.JPG)
+
+This project was made for a 3rd year license study project.
 
 
 ### Features 
@@ -17,21 +19,37 @@ This project was made  for a 3rd year license study project.
 
 # Built with 
 
-The project was made in python with 4 libraries (PIL, cmath, numpy, time).
+The project was made in Python with 4 Python modules (PIL, cmath, numpy, time).
 
 # Get project
 
 ### Prerequisites
 
-
+1. You need [Python](https://www.python.org/downloads/ "")
+2. You need install the 4 Python modules : PIL, cmath, numpy, time
+```
+python -m pip install name_module
+```
 
 ### Installation 
 
+1. Clone the repo. 
+```
+git clone https://github.com/LilianLeVrai/discrete_Fourier_transform.git
+```
+2. And just run the program. 
+```
+python src/main.py
+```
 
+# Documentation
+
+you can find a report about this project in the 'docs' folder. 
+This project being intended for a French professor, this report and the comments of the code are in French.
 
 # Contributors 
 
-- Lilian M.
+- [Lilian M](https://github.com/LilianLeVrai "").
 
 
 
