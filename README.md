@@ -21,7 +21,7 @@ This project was made for a 3rd year license study project.
 
 The project was made in Python with 4 Python modules (PIL, cmath, numpy, time).
 
-# Get project
+# Get and use project
 
 ### Prerequisites
 
@@ -49,7 +49,7 @@ This project being intended for a French professor, this report and the comments
 
 # Contributors 
 
-- [Lilian M](https://github.com/LilianLeVrai "").
+- [Lilian M.](https://github.com/LilianLeVrai "")
 
 
 
