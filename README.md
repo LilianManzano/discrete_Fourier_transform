@@ -49,7 +49,7 @@ This project being intended for a French professor, this report and the comments
 
 # Contributor 
 
-- [Lilian M.](https://github.com/LilianLeVrai "")
+- [Lilian M.](https://github.com/LilianManzano "")
 
 
 
